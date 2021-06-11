@@ -1,5 +1,5 @@
 {
-    "name": "maksa988/laravel-esputnik",
+    "name": "nipisarev/laravel-esputnik",
     "description": "Laravel ESputnik",
     "require": {
         "php": ">=7.1.0",
